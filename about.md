@@ -8,7 +8,7 @@ My name is Dongyu Kang, a machine learning enthusiast.
 
 ### More Information
 
-You do not want to know more about me.
+You do not need to know more about me.
 
 ### Contact me
 
